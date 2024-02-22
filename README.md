@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ### 영남대학교 멋쟁이 사자처럼 11기 FE 아기사자
 ### 영남대학교 멋쟁이 사자처럼 12기 FE 운영진
+### 해커그라운드 소속
