@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 ### 영남대학교 컴퓨터공학과 인공지능 학술 동아리 AIng 운영진
 ### 해커그라운드와 함께하는 학생 개발자 커뮤니티
 ### MCT(Microsoft Certified Trainer)
+### MLSA(Microsoft Learn Student Ambassador) Beta
