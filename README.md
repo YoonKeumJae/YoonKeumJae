@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 ### 해커그라운드와 함께하는 학생 개발자 커뮤니티
 ### MCT(Microsoft Certified Trainer)
 ### MLSA(Microsoft Learn Student Ambassador) Beta
+### 대구 경북 AI 커뮤니티 '맞다AI가', 'Global AI community in Daegu' 운영진
