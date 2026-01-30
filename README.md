@@ -8,7 +8,7 @@
 ### 대구 경북 AI 커뮤니티 '맞다AI가', 'Global AI community in Daegu' 운영진
 -->
 
-<div align="center">
+<!-- <div align="center"> -->
 
 <!-- Title -->
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0394fc&height=300&section=header&text=YoonKeumJae&fontSize=90)
@@ -35,7 +35,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### MCT(Microsoft Certified Trainer)
-### MSA(Microsoft Student Ambassador) Beta
-### 대구 경북 AI 커뮤니티 '맞다AI가', 'Global AI community in Daegu' 운영진
-</div>
+## Community
+- MSA(Microsoft Student Ambassador) Beta
+- 대구 경북 AI 커뮤니티 '맞다AI가', 'Global AI community in Daegu' 운영진
+
+## Work
+- Microsoft Education Success Manager | 2026.01 ~
+- MCT(Microsoft Certified Trainer) | 2025.04 ~
+
+<!-- </div> -->
