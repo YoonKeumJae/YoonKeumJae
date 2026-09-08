@@ -36,11 +36,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## Community
-- MSA(Microsoft Student Ambassador) Beta
-- 대구 경북 AI 커뮤니티 '맞다AI가', 'Global AI community in Daegu' 운영진
+- MSA(Microsoft Student Ambassador) Associate
+- 대구 경북 AI 커뮤니티 '맞다AI가' 운영진
+- Global AI community in Daegu
+- Agent AI Foundation
 
 ## Work
-- Microsoft Education Success Manager | 2026.01 ~
-- MCT(Microsoft Certified Trainer) | 2025.04 ~
+- Teamus CEO | 2026.07 -
+- Microsoft Education Success Manager | 2026.01 - 2026.06
+- MCT(Microsoft Certified Trainer) | 2025.04 -
 
 <!-- </div> -->
